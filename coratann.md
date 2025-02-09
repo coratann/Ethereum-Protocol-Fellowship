@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=Lgx6c96FhTg&t=1496s ytb的视频有字幕，时�
 
 ### 2025.02.09
 
-笔记内容
+用ethers.js批量创建了钱包。用Solidity写了个智能合约。在找靠谱的水龙头，计划11号发布一个开源的ai agent项目，做一个可以回答eth相关问题的链上bot。
 
 ### 2025.02.10
 
